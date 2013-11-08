@@ -6,6 +6,7 @@ import cc_job_logger
 from datetime import datetime
 import ConfigParser
 
+
 start_time = datetime.now()
 conf=ConfigParser.ConfigParser()
 conf.read(sys.path[0]+"/../conf/default.conf")
