@@ -1,0 +1,7 @@
+/home/ubuntu/jpan/dev/pack_qty
+File 'PACK_QTY.csv.gz' stored as 's3://bi-data-us/PACK_QTY/PACK_QTY.csv.gz' (30367 bytes in 0.4 seconds, 71.43 kB/s) [1 of 1]
+TRUNCATE TABLE and COMMIT TRANSACTION
+COPY
+{
+    "MessageId": "ceb97b95-d921-5d8a-977b-31647d660337"
+}
